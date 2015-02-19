@@ -3,7 +3,7 @@
 
 ## makeCacheMatrix takes a matrix as argument and has the following functions,
 ## get(): return the matrix
-## set(): set the matrix
+## set(): reset the matrix and nullify the previously cached inverse
 ## getInverse(): return the inverse of the matrix
 ## setInverse(): set the inverse of the matrix
 
